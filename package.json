@@ -1,0 +1,13 @@
+{
+  "name": "generate_binary",
+  "version": "1.0.0",
+  "description": "binary resize or swap",
+  "directories": {},
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {},
+  "author": "hachimitu22",
+  "license": "MIT"
+}
